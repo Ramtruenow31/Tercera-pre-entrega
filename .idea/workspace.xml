@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b17aab83-af34-4510-b278-bd71f17b1911" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2Yovo322SwZbxXvS2RJ7HGpMFbU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/ramse/PycharmProjects/Tercera-pre-entrega",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ramse\PycharmProjects\Tercera-pre-entrega\Proyecto3\Proyecto3" />
+      <recent name="C:\Users\ramse\PycharmProjects\Tercera-pre-entrega" />
+      <recent name="C:\Users\ramse\PycharmProjects\Tercera-pre-entrega\tercera-pre-entrega" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Tercera-pre-entrega" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.9 (Tercera-pre-entrega)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="manage" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="true" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b17aab83-af34-4510-b278-bd71f17b1911" name="Changes" comment="" />
+      <created>1701204917821</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701204917821</updated>
+      <workItem from="1701204923574" duration="1273000" />
+      <workItem from="1701206218826" duration="155000" />
+      <workItem from="1701206480923" duration="610000" />
+      <workItem from="1701207096746" duration="98000" />
+      <workItem from="1701207196085" duration="38000" />
+      <workItem from="1701207235081" duration="33000" />
+      <workItem from="1701207277130" duration="15000" />
+      <workItem from="1701207317971" duration="11000" />
+      <workItem from="1701207329434" duration="84000" />
+      <workItem from="1701207415061" duration="62000" />
+      <workItem from="1701207478651" duration="195000" />
+      <workItem from="1701207676602" duration="891000" />
+      <workItem from="1701208575362" duration="10000" />
+      <workItem from="1701208595544" duration="19000" />
+      <workItem from="1701208629292" duration="20000" />
+      <workItem from="1701208650271" duration="37000" />
+      <workItem from="1701208688009" duration="119000" />
+      <workItem from="1701208808376" duration="79000" />
+      <workItem from="1701208895030" duration="84000" />
+      <workItem from="1701209001708" duration="530000" />
+      <workItem from="1701209552014" duration="280000" />
+      <workItem from="1701209835555" duration="218000" />
+      <workItem from="1701210055483" duration="37000" />
+      <workItem from="1701210169879" duration="189000" />
+      <workItem from="1701210361108" duration="7000" />
+      <workItem from="1701210376612" duration="4924000" />
+      <workItem from="1701216452770" duration="2127000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Tercera_pre_entrega$manage.coverage" NAME="manage Coverage Results" MODIFIED="1701216840820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
